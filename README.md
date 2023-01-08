@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-$ npm install knights-canvas
+$ npm install bot-welcomer
 ```
 
 ## Example GoodBye
