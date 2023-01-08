@@ -7,7 +7,7 @@ $ npm install knights-canvas
 ## Example GoodBye
 
 ```js
-const ling = require("knights-canvas"),
+const ling = require("bot-welcomer"),
 const  fs = require('fs');
 
 const image = await new ling.Goodbye()
@@ -22,12 +22,3 @@ const image = await new ling.Goodbye()
   data = image.toBuffer();
   await fs.writeFileSync(__path +'/tmp/swelkom.png', data)
  
-```
-## IMAGE 
-<img src="https://pandal.page/imgs/imgs/60b0ad54166ef.jpg" height="145"></img>
-
-## Credits
-
-Made by [LINZ](https://github.com/Not-found-squad) with ❤️  
-Thanks to [LEN](https://github.com/lenz-cmd) for his help !
-# knights-canvas
